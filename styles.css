@@ -151,6 +151,7 @@ h2 {
 .contant-mail {
     color: var(--dark-slate-g-color);
     font-weight: 700;
+    white-space: nowrap;
 }
 
 #dismissBtn {
